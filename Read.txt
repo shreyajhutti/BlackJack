@@ -5,4 +5,19 @@ this is shrijays commit
 hello this is shreya Jhutti 
 
 
+<<<<<<< HEAD
 test 1- shreya 18/12/2022
+=======
+
+
+hello this is shrijay again...
+test 1
+
+hello 18 dec 2022
+heyy 
+
+Hello Aastha's commit 18|12
+>>>>>>> branch 'main' of https://github.com/shreyajhutti/BlackJack.git
+
+test 1 - 19/12/2022
+----------hii this is shreya here-----------
